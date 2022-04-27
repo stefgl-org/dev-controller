@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "stefgl-org-dev-controller"
+description: "CloudBees CI configuration bundle for the stefgl-org dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/stefgl-org/dev-controller"
+parent: "base"
